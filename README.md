@@ -1,4 +1,4 @@
-### ** Hi! ** 👋  I'm Anna
+###  _Hi!_ 👋  I'm Anna
 
 <!--
 **annatoman/annatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
