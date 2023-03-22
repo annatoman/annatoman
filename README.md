@@ -1,6 +1,6 @@
 ##  _Hi!_ 👋  I'm Anna
 
-### Software Engineer
+### Developer
 
 I have a passion for problem-solving, organization and creative thinking!
 
