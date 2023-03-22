@@ -6,7 +6,7 @@ I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
 - 📚 Currently reading: The Pragmatic Programmer
-- 🌱 Currently learning: Ruby on Rails, HTML
+- 🌱 Currently learning: Ruby on Rails, JS, HTML
 
 <!--
 **annatoman/annatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
