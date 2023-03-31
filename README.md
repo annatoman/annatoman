@@ -5,7 +5,7 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: The Pragmatic Programmer
+- 📚 Currently reading: *Somebody's Daughter
 - 🌱 Currently learning: Ruby on Rails, JS, HTML
 
 <!--
