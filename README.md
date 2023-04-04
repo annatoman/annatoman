@@ -5,7 +5,7 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: [*Narcissus and Goldmund*] (https://bookshop.org/p/books/narcissus-and-goldmund-hermann-hesse/7214305?ean=9780553275865) by Hermann Hesse
+- 📚 Currently reading: [*Narcissus and Goldmund*](https://bookshop.org/p/books/narcissus-and-goldmund-hermann-hesse/7214305?ean=9780553275865) by Hermann Hesse
 - 🌱 Currently learning: Ruby on Rails, JS, HTML
 
 <!--
