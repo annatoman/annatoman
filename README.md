@@ -6,7 +6,7 @@ I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
 - 📚 Currently reading: [*Poverty, by America*](https://bookshop.org/p/books/poverty-by-america-matthew-desmond/18603208?ean=9780593239919) by Matthew Desmond
-- 🌱 Currently learning: Ruby on Rails, JS, HTML
+- 🌱 Currently learning: Vue.js, more React
 
 <!--
 **annatoman/annatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
