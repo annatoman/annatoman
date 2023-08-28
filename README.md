@@ -7,7 +7,7 @@ I have a passion for problem-solving, organization and creative thinking!
 - 🌟 I love to read books and write code
 - 📚 Currently reading: [*Homeland Elegies*](https://bookshop.org/p/books/homeland-elegies-ayad-akhtar/15861155?ean=9780316496421) by Ayad Akhtar
 - 🌱 Currently learning: Java, Vue.js, React
-- - 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or [Email](annamtoman@gmail.com)
+- 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or [Email]<annamtoman@gmail.com>
 
 <!--
 **annatoman/annatoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
