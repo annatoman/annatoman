@@ -5,7 +5,7 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: [*The Changeling*](https://bookshop.org/p/books/the-changeling-victor-lavalle/11740283?ean=9780812985870) by Victor Lavalle
+- 📚 Currently reading: [*How to Stop Worrying and Start Living*](https://bookshop.org/p/books/how-to-stop-worrying-and-start-living/18851684) by Dale Carnegie
 - 🌱 Currently learning: Java, Vue.js, React
 - 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or <annamtoman@gmail.com>
 
