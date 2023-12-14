@@ -5,8 +5,8 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: [*How to Stop Worrying and Start Living*](https://bookshop.org/p/books/how-to-stop-worrying-and-start-living/18851684) by Dale Carnegie
-- 🌱 Currently learning: Java, Vue.js, React
+- 📚 Currently reading: [*Demon Coppherhead*](https://bookshop.org/p/books/demon-copperhead-barbara-kingsolver/18506689?ean=9780063251922) by Barbara Kingsolver
+- 🌱 Currently learning: Python
 - 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or <annamtoman@gmail.com>
 
 <!--
