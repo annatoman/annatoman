@@ -5,7 +5,7 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: [*The Covenant of Water*](https://bookshop.org/p/books/covenant-of-water/18668163?ean=9780802162175) by Abraham Verghese
+- 📚 Currently reading: [*Tom Lake*](https://bookshop.org/p/books/tom-lake-ann-patchett/19520433?ean=9780063327528) by Ann Patchett
 - 🌱 Currently learning: Python
 - 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or <annamtoman@gmail.com>
 
