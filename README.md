@@ -5,7 +5,7 @@
 I have a passion for problem-solving, organization and creative thinking!
 
 - 🌟 I love to read books and write code
-- 📚 Currently reading: [*Tom Lake*](https://bookshop.org/p/books/tom-lake-ann-patchett/19520433?ean=9780063327528) by Ann Patchett
+- 📚 Currently reading: [*Supercommunicators*](https://bookshop.org/p/books/supercommunicators-the-power-of-conversation-and-hidden-language-of-connection-charles-duhigg/20112446) by Charles Duhigg
 - 🌱 Currently learning: Python
 - 📫 Find me: [LinkedIn](https://www.linkedin.com/in/anna-toman/) or <annamtoman@gmail.com>
 
